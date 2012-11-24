@@ -30,7 +30,7 @@ import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import cpw.mods.fml.common.network.NetworkMod;
 import cpw.mods.fml.common.registry.VillagerRegistry;
 
-@Mod(modid = "ComparableConversion", name = "ComparableConversion", version = "0.0.2")
+@Mod(modid = "ComparableConversion", name = "ComparableConversion", version = "0.0.3")
 @NetworkMod(clientSideRequired = true, serverSideRequired = false)
 public class ComparableConversion {
 	private static final Logger			log				= Logger.getLogger("Minecraft");
